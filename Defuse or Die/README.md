@@ -1,3 +1,10 @@
+Defuse or Die is a game developed by Timothy Gee(programmer), Johnny Luo(programmer), Reese Chong(Artist), and Benjamin Tran(Artist).
+The original repo can be found at https://github.com/jluo42/FinalGame and played at https://jluo42.itch.io/cmpm-120-game-defuse-or-die.
+This version of Defuse or Die is my own variation in which I sought to slightly improve the game. I have not currently uploaded my
+variation online directly to play the game, however all the code is here. Below are the changes I have implemented.
+
+
+
 Defuse or Die Variation
 
 New MiniGame:
